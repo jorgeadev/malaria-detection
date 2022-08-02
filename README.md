@@ -1,2 +1,2 @@
-# Malaria_Detection
+# Malaria Detection
 Repository to implement malaria detection
